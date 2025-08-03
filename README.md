@@ -68,7 +68,7 @@ npx playwright show-report
 ### API Tests (Supertest)
 ```bash
 # Run API tests
-npx run onlybackend
+npm run test:onlybackend
 
 ```
 
