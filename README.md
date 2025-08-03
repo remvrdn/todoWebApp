@@ -158,10 +158,6 @@ This is a demonstration application with in-memory storage. For production use, 
 - Configure HTTPS and security best practices
 - Add user registration and password reset functionality
 
-## 📝 License
-
-This project is for demonstration purposes. Feel free to use and modify as needed.
-
 ---
 
 **Created by Irem Vardan** - A comprehensive full-stack application showcasing modern web development practices with complete testing coverage.
